@@ -54,3 +54,5 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:EAX	SOURCEWEB:http://www.mywebsite
 #The SOURCEPAGE tag can be used to hold a reference to where you can find the spell. This will be displayed in PCGen.
 
 Survival.MOD	SITUATION:Undead
+Diplomacy.MOD	SITUATION:Undead
+Knowledge (Religion).MOD	SITUATION:Undead
