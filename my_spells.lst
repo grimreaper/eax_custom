@@ -64,3 +64,7 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mywebsite
 #the output sheet.
 #
 #The ITEM tag tells PCGen what types of items this spell can be used to make (Potions, wands, wondrous items, etc).
+Ghost Sound.MOD	CLASSES:Oracle=0
+Mage Hand.MOD	CLASSES:Oracle=1
+Disguise Self.MOD	CLASSES:Oracle=1
+Memory Lapse.MOD	CLASSES:Oracle=1
