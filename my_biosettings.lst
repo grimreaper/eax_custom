@@ -2,18 +2,6 @@
 #SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPFC	SOURCEWEB:http://www.mywebsite.com
 #Biosetting files cannot have SOURCE tags in them so if you want to keep them in you must comment them out.
 
-#insert your data here
-
-#Every line that starts with a '#' is a comment. You may want to remove these comments, if you use this file to set up
-#your own data. Remember not to put the '#' at the start of your own data, as PCGen would see it as a comment only.
-#
-#When Running PCGen, you can select "Help > Documentation > List Files > List File Tag Index > Bio Settings tags" to find
-#out how the tags in the biosettings file work. Some of the tags used here are global tags. You will see an alphabetical
-#listing of all PCGen tags to the left of the documentation window. You can find the global tags there as well.
-#
-#
-#
-#
 #####Example
 
 #AGESET:0|Adulthood
